@@ -87,7 +87,7 @@ navigation_system/
 ## 🧪 Setup & Run
 
 ### 1️⃣ Enable Interfaces
-```bash
+
 sudo raspi-config
 # Interfacing Options → enable I2C, SPI, and Serial (“no login shell”, “enable hardware”)
 sudo reboot
